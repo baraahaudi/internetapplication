@@ -1,0 +1,7 @@
+hat can you say about programming languages?
+Computers do not understand human language,
+ so people use programming languages to 
+ translate directions into binary code
+  that devices can follow as apps, websites, 
+  and software programs. Coding plays a crucial role in our 
+  increasingly digital world. Many aspects of modern life rely on coding.
